@@ -1,7 +1,7 @@
 # HomeSkool
 HomeSkool is a local network learning system for educators.
 
-The original goals were large and will likely take many years—most of the work outside of programming. I am currently building out learning tools for my personal use. I will gladfully append these built resources as they are made.
+The original goals were large and will likely take many years—most of the work is outside of programming. I am currently building out learning tools for my personal use. I will gladfully append these built resources as they are made.
 
 The app has a lot of potential. It is a barebone template for anyone to create their education management system. It has a simple login system and can easily be extended to email-secured logins. The start page has the major sections and can easily be expanded. 
 
